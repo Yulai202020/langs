@@ -21,6 +21,18 @@
 кормить - feed - ταίζω (тезо) - -
 чувствовать - feel - αφή (афи) - -
 
+deal
+dig
+draw
+drink
+eat
+find
+fight
+fly
+get
+go
+
+
 # Слова - 
 
 да - Ναί (наи)  
