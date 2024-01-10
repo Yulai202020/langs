@@ -21,16 +21,16 @@
 кормить - feed - ταίζω (тезо) - -
 чувствовать - feel - αφή (афи) - -
 
-deal
-dig
-draw
+иметь дело - deal
+копать - dig
+рисовать - draw
 drink
-eat
-find
-fight
-fly
-get
-go
+есть - eat 
+находить - find
+драться - fight
+летать - fly
+получать - get
+идти - go
 
 
 # Слова - 
