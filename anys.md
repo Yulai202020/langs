@@ -17,16 +17,16 @@
 
 # Глаголы +
 
-доверять - trust
-зарплата - salary
-грубый - rude
-купить/продать - buy/sell
-смеяться/плакать - laugh/cry
-соглашаться/не соглашаться - agree/(disagree - refuse)
-Продолжай - keep on
-мебель - furniture
-мнение - opinion
-продвинутый/новичок - advenced/beginner - elementary
+доверять - trust - 
+зарплата - salary - 
+грубый - rude - 
+купить/продать - buy/sell - 
+смеяться/плакать - laugh/cry - 
+соглашаться/не соглашаться - agree/disagree - 
+Продолжай - keep on - 
+мебель - furniture - 
+мнение - opinion - 
+продвинутый/новичок - advenced/beginner - 
 
 купть - buy - αγορά (агора) - һатып алыу - 
 поймать - catch - σύλληψη (силипси) - ҡулға алыу -
